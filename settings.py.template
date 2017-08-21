@@ -1,0 +1,7 @@
+REFRESH_TIME = 600 # Seconds
+
+trackobot_accounts = {
+  "nickname":  ("username","password",),
+}
+
+OUTPUT_FILE = "/var/www/my_file.html"
